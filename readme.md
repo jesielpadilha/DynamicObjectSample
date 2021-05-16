@@ -1,0 +1,1 @@
+### This is a small project built to demonstrate the versatility of ExpandoObject class. This incredible resource allow us create object dynamically and aggregate attributes in runtime as needed.
